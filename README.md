@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dvrd
 - 👀 I’m interested in human behaviour & history
-- 🌱 I’m currently learning rust
+- 🌱 I like programming languages (Rust 🦀, Odin, Ocaml, C, Swfit, Typescript, Python...)
+- Big Neovim fan
 
 <!---
 dvrd/dvrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

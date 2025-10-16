@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dvrd
+- 👋 Hi, I’m dvrd
 - 👀 I’m interested in human behaviour & history
-- 🌱 I like programming languages (Rust 🦀, Odin, Ocaml, C, Swfit, Typescript, Python...)
+- 🌱 I like programming languages (Odin, Rust, Ocaml, C, Swfit, Typescript, Python...)
 - Big Neovim fan
 
 <!---

@@ -35,7 +35,11 @@ can read       →  Rust, OCaml, Ruby
 - a computer vision pipeline in Go — reads license plates off traffic footage in real time
 - a calendar with drag-and-drop, conflict detection, real-time sync
 - various tools nobody asked for
+---
+ ## Latest Posts
 
+  <!-- BLOG-POSTS:START -->
+  <!-- BLOG-POSTS:END -->
 ---
 
 **[devoured.io](https://devoured.io)** · **[dan@devoured.io](mailto:dan@devoured.io)**

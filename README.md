@@ -39,7 +39,12 @@ can read       →  Rust, OCaml, Ruby
  ## Latest Posts
 
   <!-- BLOG-POSTS:START -->
-  <!-- BLOG-POSTS:END -->
+- [Fine-tuning my own model for the scraping agent — first attempt](https://devoured.io/blog/newt-agent-production) — 2026-03-18
+- [Testing every model I could find to make an autonomous scraping agent work](https://devoured.io/blog/building-newt) — 2026-03-13
+- [Building a SaaS in Go without a single React component](https://devoured.io/blog/building-hrvst) — 2026-03-12
+- [1.1MB Lighter: A Performance Cleanup That Actually Mattered](https://devoured.io/blog/1mb-lighter) — 2026-03-08
+- [From OOM to 76 Passing: Arena Allocation and ASI in a PEG Parser](https://devoured.io/blog/from-oom-to-76-passing) — 2026-02-24
+<!-- BLOG-POSTS:END -->
 ---
 
 **[devoured.io](https://devoured.io)** · **[dan@devoured.io](mailto:dan@devoured.io)**
